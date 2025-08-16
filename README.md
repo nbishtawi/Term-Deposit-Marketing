@@ -4,8 +4,6 @@
 **Term Deposit Marketing Prediction** is a machine learning project that predicts whether a customer will subscribe to a term deposit based on demographic, financial, and campaign-related features.  
 The project applies classification models, class imbalance techniques, and interpretability methods to support marketing decision-making.  
 
-This project was originally developed in a notebook called *Assignment 2 Final Workbook.ipynb* and has now been renamed and documented for clarity and reproducibility.  
-
 Note: The dataset (term-deposit-marketing-2020.csv) is **not included** in this repository due to proprietary restrictions.  
 
 ---
